@@ -1,4 +1,4 @@
-VICUNA_PATH = "/home/pchao/vicuna-13b-v1.5"
+VICUNA_PATH = "lmsys/vicuna-13b-v1.5"
 LLAMA_PATH = "/home/pchao/Llama-2-7b-chat-hf"
 
 ATTACK_TEMP = 1
